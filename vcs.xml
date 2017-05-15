@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Deadspeck/Git-Ninja-11May.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Deadspeck/B4-15May.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/media/compsci/J843-3H9D-9/4B/workspace/Git-Ninja-11May" />
+    <option name="cloneParentDir" value="/media/compsci/J843-3H9D-9/4B/workspace/Git-Ninja-11May/B4-15May" />
   </component>
 </application>
